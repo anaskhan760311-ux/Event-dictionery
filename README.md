@@ -1,3 +1,3 @@
 # this is my event dictionery
 <br>
-visit website: file:///C:/Users/anask/OneDrive/Desktop/Internship/event%20dictionery/index.html
+visit website: https://event-dictionery-h7bbsfaj6-anas25-bbe9.vercel.app
